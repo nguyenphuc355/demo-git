@@ -3,7 +3,7 @@ public class HelloWorld {
 		System.out.print("fuck you");
 		System.out.print("fuck you");
 	}
-	public static integer tichAB(int a, int b){
+	public static <integer> int tichAB(int a, int b){
 		return a*b;
 	}
 }
